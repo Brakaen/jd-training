@@ -1,0 +1,7 @@
+let cars = ["BMW", "Audi", "Swift"];
+let carDetails = {
+    brand1: "BMW",
+    brand2: "Audi",
+    brand3: "Swift"
+};
+console.log(carDetails.brand1); // BMW
