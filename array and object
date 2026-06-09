@@ -4,4 +4,4 @@ let carDetails = {
     brand2: "Audi",
     brand3: "Swift"
 };
-console.log(carDetails.brand1); // BMW
+console.log(carDetails.brand1); 

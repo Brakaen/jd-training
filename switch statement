@@ -13,7 +13,7 @@ switch (true) {
         console.log("Grade: D");
         break;
     default:
-        console.log("Grade: F");
+        console.log("You are failed");
 }
 let day = "Monday";
 switch (day) {
